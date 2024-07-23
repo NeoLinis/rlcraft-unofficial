@@ -6,5 +6,5 @@ RLCraft Unofficial Update
 - Updated mods: Controlling, CraftTweaker2, CreativeCore, Dynamic Surroundings, EntityCulling, Grappling hook mod, Just Enough Items, Legendary Tooltips, Mixin Compatability, Particle Culling, Placebo, Reach fix, Recurrent Complex, RLMixins, RLTweaker, Roguelike Dungeons, Spartan Defiled.
 - DynamicSurroundings-1.12.2-3.6.3 (Patched by romztm to work with Dynamic Surroundings: HUDs)
 
-Instalation:
+Installation:
 Import the zip to Prism launcher.
